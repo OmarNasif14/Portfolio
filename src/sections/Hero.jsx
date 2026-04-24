@@ -1,6 +1,6 @@
 import {Button} from "@/components/Button";
 import { ArrowRight, ChevronDown, Github, Linkedin,X, Download} from "lucide-react";
-import { AnimatedBorderButton } from "../Components/AnimatedBorderButton";
+import { AnimatedBorderButton } from "../components/AnimatedBorderButton";
 
 const skills =[
     "React.js",
