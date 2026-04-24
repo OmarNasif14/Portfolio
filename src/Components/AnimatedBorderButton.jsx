@@ -1,6 +1,6 @@
 import { Download } from "lucide-react";
 
-export const AnimatedBorderButton = ({children}) => {
+export const AnimatedBorderButton = ({children, href, download}) => {
 
   const handleClick = () => {
         if (href) {
